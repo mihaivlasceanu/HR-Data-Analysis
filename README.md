@@ -5,11 +5,11 @@
 **HR data analysis project for a fictional healthcare company, Praxis Health.**
 
 ## 📚  Table of Contents
-- [📄  Importing The Dataset (SQL)]()
-- [👁️‍🗨️ Bird's Eye View (SQL)]()
-- [🚪  Attrition Analysis (SQL)]()
-- [👥 Employee Satisfaction (SQL)]()
-- [🎨 Data Visualization (Tableau)]()
+- [📄  Importing The Dataset (SQL)](https://github.com/mihaivlasceanu/HR-Data-Analysis#importing-the-dataset)
+- [👁️‍🗨️ Bird's Eye View (SQL)](https://github.com/mihaivlasceanu/HR-Data-Analysis#birds-eye-view)
+- [🚪  Attrition Analysis (SQL)](https://github.com/mihaivlasceanu/HR-Data-Analysis#attrition-analysis)
+- [👥 Employee Satisfaction (SQL)](https://github.com/mihaivlasceanu/HR-Data-Analysis#employee-satisfaction)
+- [🎨 Data Visualization (Tableau)](https://github.com/mihaivlasceanu/HR-Data-Analysis#data-visualization)
 
 ## Importing The Dataset
 **Source:** 
@@ -1608,6 +1608,7 @@ ORDER BY 1
 
 ## Data Visualization
 **[Full, interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mihai.vl.sceanu/viz/HRDashboard_17005529569950/Dashboard4?publish=yes)**
+
 
 ![Praxis Health HR Tableau Dashboard](images/praxis_health_dashboard.png)
 
